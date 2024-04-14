@@ -1,3 +1,5 @@
+#T.C. = O(n)
+#S.C = O(1)
 def minSubArrayLen(target: int, nums: list[int]) -> int:
     min_diff = float('inf')
     diff = float('inf')

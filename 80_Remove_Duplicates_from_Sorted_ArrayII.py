@@ -1,3 +1,5 @@
+# S.C. = O(n)
+# T.C. = O(n)
 def removeDuplicates(self, nums: list[int]) -> int:
     seen = {}
     index = 0
